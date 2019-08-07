@@ -26,7 +26,7 @@ access to anyone that has the link.
 
 ![Creating a shared link](/images/pages/dashboards/links.png)
 
-5. Visit the shard URL by clicking the Link in the URL column.
+5. Visit the shared URL by clicking the Link in the URL column.
 
 You can now use this link in the browser of your wall monitor or send it to people
 that should have read-only access.
